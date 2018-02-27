@@ -1,0 +1,11 @@
+1. Implement feedback methods:
+save
+update
+findFeedbacksByUser
+findFeedbackById
+findFeedbacksByTitle
+findFeedbacksFrom(Date)
+findFeedbacksWithRating(int)
+
+3. Implement console input for creating users
+4. Implement console input for creating feedbacks. Feedbacks should use username for user identification
